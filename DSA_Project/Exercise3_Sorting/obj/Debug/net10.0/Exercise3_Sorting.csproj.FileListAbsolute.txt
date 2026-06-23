@@ -1,0 +1,14 @@
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\bin\Debug\net10.0\Exercise3_Sorting.exe
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\bin\Debug\net10.0\Exercise3_Sorting.deps.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\bin\Debug\net10.0\Exercise3_Sorting.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\bin\Debug\net10.0\Exercise3_Sorting.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\bin\Debug\net10.0\Exercise3_Sorting.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\obj\Debug\net10.0\Exercise3_Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\obj\Debug\net10.0\Exercise3_Sorting.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\obj\Debug\net10.0\Exercise3_Sorting.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\obj\Debug\net10.0\Exercise3_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\obj\Debug\net10.0\Exercise3_Sorting.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\obj\Debug\net10.0\refint\Exercise3_Sorting.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\obj\Debug\net10.0\Exercise3_Sorting.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\obj\Debug\net10.0\Exercise3_Sorting.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise3_Sorting\obj\Debug\net10.0\ref\Exercise3_Sorting.dll

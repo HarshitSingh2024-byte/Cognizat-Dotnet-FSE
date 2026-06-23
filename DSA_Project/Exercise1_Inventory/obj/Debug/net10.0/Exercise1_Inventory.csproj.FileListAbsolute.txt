@@ -1,0 +1,15 @@
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\bin\Debug\net10.0\Exercise1_Inventory.exe
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\bin\Debug\net10.0\Exercise1_Inventory.deps.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\bin\Debug\net10.0\Exercise1_Inventory.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\bin\Debug\net10.0\Exercise1_Inventory.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\bin\Debug\net10.0\Exercise1_Inventory.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\Exercise1_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\Exercise1_Inventory.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\Exercise1_Inventory.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\Exercise1_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\Exercise1_Inventory.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\refint\Exercise1_Inventory.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\Exercise1_Inventory.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\Exercise1_Inventory.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\ref\Exercise1_Inventory.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise1_Inventory\obj\Debug\net10.0\Exercise1_Inventory.sourcelink.json

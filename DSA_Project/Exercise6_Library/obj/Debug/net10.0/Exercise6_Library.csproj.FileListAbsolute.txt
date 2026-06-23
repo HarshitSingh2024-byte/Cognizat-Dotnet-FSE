@@ -1,0 +1,14 @@
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\bin\Debug\net10.0\Exercise6_Library.exe
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\bin\Debug\net10.0\Exercise6_Library.deps.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\bin\Debug\net10.0\Exercise6_Library.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\bin\Debug\net10.0\Exercise6_Library.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\bin\Debug\net10.0\Exercise6_Library.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\obj\Debug\net10.0\Exercise6_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\obj\Debug\net10.0\Exercise6_Library.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\obj\Debug\net10.0\Exercise6_Library.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\obj\Debug\net10.0\Exercise6_Library.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\obj\Debug\net10.0\Exercise6_Library.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\obj\Debug\net10.0\refint\Exercise6_Library.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\obj\Debug\net10.0\Exercise6_Library.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\obj\Debug\net10.0\Exercise6_Library.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise6_Library\obj\Debug\net10.0\ref\Exercise6_Library.dll

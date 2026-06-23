@@ -1,0 +1,14 @@
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\bin\Debug\net10.0\Exercise5_TaskManagement.exe
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\bin\Debug\net10.0\Exercise5_TaskManagement.deps.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\bin\Debug\net10.0\Exercise5_TaskManagement.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\bin\Debug\net10.0\Exercise5_TaskManagement.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\bin\Debug\net10.0\Exercise5_TaskManagement.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\obj\Debug\net10.0\Exercise5_TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\obj\Debug\net10.0\Exercise5_TaskManagement.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\obj\Debug\net10.0\Exercise5_TaskManagement.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\obj\Debug\net10.0\Exercise5_TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\obj\Debug\net10.0\Exercise5_TaskManagement.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\obj\Debug\net10.0\refint\Exercise5_TaskManagement.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\obj\Debug\net10.0\Exercise5_TaskManagement.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\obj\Debug\net10.0\Exercise5_TaskManagement.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise5_TaskManagement\obj\Debug\net10.0\ref\Exercise5_TaskManagement.dll

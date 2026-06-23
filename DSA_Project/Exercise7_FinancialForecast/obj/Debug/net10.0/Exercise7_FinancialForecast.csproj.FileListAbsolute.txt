@@ -1,0 +1,14 @@
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\bin\Debug\net10.0\Exercise7_FinancialForecast.exe
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\bin\Debug\net10.0\Exercise7_FinancialForecast.deps.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\bin\Debug\net10.0\Exercise7_FinancialForecast.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\bin\Debug\net10.0\Exercise7_FinancialForecast.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\bin\Debug\net10.0\Exercise7_FinancialForecast.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\obj\Debug\net10.0\Exercise7_FinancialForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\obj\Debug\net10.0\Exercise7_FinancialForecast.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\obj\Debug\net10.0\Exercise7_FinancialForecast.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\obj\Debug\net10.0\Exercise7_FinancialForecast.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\obj\Debug\net10.0\Exercise7_FinancialForecast.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\obj\Debug\net10.0\refint\Exercise7_FinancialForecast.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\obj\Debug\net10.0\Exercise7_FinancialForecast.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\obj\Debug\net10.0\Exercise7_FinancialForecast.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise7_FinancialForecast\obj\Debug\net10.0\ref\Exercise7_FinancialForecast.dll

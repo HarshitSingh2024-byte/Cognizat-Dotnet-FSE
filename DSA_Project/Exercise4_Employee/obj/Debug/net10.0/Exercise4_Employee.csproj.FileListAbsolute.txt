@@ -1,0 +1,14 @@
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\bin\Debug\net10.0\Exercise4_Employee.exe
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\bin\Debug\net10.0\Exercise4_Employee.deps.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\bin\Debug\net10.0\Exercise4_Employee.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\bin\Debug\net10.0\Exercise4_Employee.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\bin\Debug\net10.0\Exercise4_Employee.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\obj\Debug\net10.0\Exercise4_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\obj\Debug\net10.0\Exercise4_Employee.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\obj\Debug\net10.0\Exercise4_Employee.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\obj\Debug\net10.0\Exercise4_Employee.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\obj\Debug\net10.0\Exercise4_Employee.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\obj\Debug\net10.0\refint\Exercise4_Employee.dll
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\obj\Debug\net10.0\Exercise4_Employee.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\obj\Debug\net10.0\Exercise4_Employee.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\Algorithm Data Structures\DSA_Project\Exercise4_Employee\obj\Debug\net10.0\ref\Exercise4_Employee.dll

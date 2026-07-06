@@ -1,0 +1,14 @@
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\bin\Debug\net10.0\Implementing the Factory Method Pattern.exe
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\bin\Debug\net10.0\Implementing the Factory Method Pattern.deps.json
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\bin\Debug\net10.0\Implementing the Factory Method Pattern.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\bin\Debug\net10.0\Implementing the Factory Method Pattern.dll
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\bin\Debug\net10.0\Implementing the Factory Method Pattern.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\obj\Debug\net10.0\Implementing the Factory Method Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\obj\Debug\net10.0\Implementing the Factory Method Pattern.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\obj\Debug\net10.0\Implementing the Factory Method Pattern.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\obj\Debug\net10.0\Implementing the Factory Method Pattern.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\obj\Debug\net10.0\Implementing the Factory Method Pattern.dll
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\obj\Debug\net10.0\refint\Implementing the Factory Method Pattern.dll
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\obj\Debug\net10.0\Implementing the Factory Method Pattern.pdb
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\obj\Debug\net10.0\Implementing the Factory Method Pattern.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Desktop\Implementing the Factory Method Pattern\obj\Debug\net10.0\ref\Implementing the Factory Method Pattern.dll

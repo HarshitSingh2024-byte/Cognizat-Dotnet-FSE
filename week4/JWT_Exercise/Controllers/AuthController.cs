@@ -26,7 +26,7 @@ namespace JwtAuthExercise.Controllers
         private bool IsValidUser(LoginModel model)
         {
             // Replace with real validation in production
-            return model.Username == "testuser" && model.Password == "P@ssw0rd";
+            return model.Username == "atom" && model.Password == "tick";
         }
 
         private string GenerateJwtToken(string username)

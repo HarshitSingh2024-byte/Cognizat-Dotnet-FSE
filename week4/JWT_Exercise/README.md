@@ -11,5 +11,4 @@ Files created:
 
 Notes:
 - Authentication is configured with JWT Bearer in `Program.cs`.
-- Use POST `api/auth/login` with JSON { "username":"testuser","password":"P@ssw0rd" } to receive a token.
-- This project is a code sample and uses hard-coded user validation for demonstration only.
+

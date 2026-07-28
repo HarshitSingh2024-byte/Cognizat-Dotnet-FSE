@@ -78,7 +78,6 @@ cat /etc/os-release
 echo "Hello Docker"
 ```
 
-![Running Container](Screenshots/03-running-container.png)
 
 ---
 
